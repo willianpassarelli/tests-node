@@ -1,6 +1,6 @@
 ## TESTS NODE
 
-Tests NODE with Jest and Superjest
+Tests NODE with Jest and Supertest
 
 ### Run tests config (package.json) in windows
 
