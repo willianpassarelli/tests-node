@@ -23,3 +23,9 @@ Tests NODE with Jest and Supertest
     "posttest": "NODE_ENV=test sequelize db:migrate:undo:all"
   }
 ```
+
+### RUN TESTS
+
+```
+  yarn test
+```
